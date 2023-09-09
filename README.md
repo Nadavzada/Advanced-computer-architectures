@@ -8,6 +8,7 @@ We will classify SARS-COV-19’s genomic sequences to different existing lineage
 1. CNN
 2. CNN with Embedding layer
 3. CNN using forward-forward algorithm
+   
 We will compare the results of those networks.
 
 
